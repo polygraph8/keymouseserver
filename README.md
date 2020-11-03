@@ -11,27 +11,17 @@ loginAndSendVerifycode
 logout
 
 [loginAndSendVerifycode]
-
 clickAt:: 658,679
 clickAt:: 598,345
-
 clickAt:: 551,270
 
 [logout]
 clickAt:: 660,683
-
 Sleep::1000
-
 clickAt:: 669,70
-
 Sleep::1000
-
 clickAt:: 588,505
-
 mouseWheel:: 588,505
-
 Sleep::1000
-
 clickAt:: 399,596
-
 clickAt:: 592,395
